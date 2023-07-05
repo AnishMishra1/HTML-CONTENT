@@ -1,0 +1,3 @@
+HTML <! DOCTYPE> tag is used to inform the browser
+ about the version of HTML used in the document. 
+It is called as the document type declaration (DTD).

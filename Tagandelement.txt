@@ -1,0 +1,3 @@
+What is difference between tag and element in HTML?
+Ans - HTML tags are used to hold the HTML element. 
+HTML element holds the content. 

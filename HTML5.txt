@@ -1,0 +1,7 @@
+
+Advantage of HTML5 with previous version as follow:
+1.Multimedia support.
+2.Short and simple syntax.
+3.Improved security features.
+4.Inlcude semantic tags.
+5.Cross-platform support.

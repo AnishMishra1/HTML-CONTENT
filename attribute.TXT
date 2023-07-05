@@ -1,0 +1,5 @@
+The main difference between an HTML tag and an HTML
+ attribute is that an HTML tag is a way of representing 
+ an HTML element in the program. On the other hand, an HTML 
+ attribute describes the characteristics of an HTML element. 
+For example : <a> , <href> , <button> , and <div> etc.
